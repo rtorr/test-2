@@ -1,0 +1,9 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "code .",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["test-1", "test-2", "test-3"]
+}
